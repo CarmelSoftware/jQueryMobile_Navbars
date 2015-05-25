@@ -1,4 +1,4 @@
-# jQueryMobile_Navbars
+# jQueryMobile Navbars
 ##A jQuery Mobile App exemplifying the use of header and footer Navbars with icons , shadows , round corners , fixed position and more
 ####By Carmel Schvartzman
 

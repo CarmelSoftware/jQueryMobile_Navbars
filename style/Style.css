@@ -1,0 +1,14 @@
+.content {
+    text-align:center;    
+    font:900 30px Lucida Handwriting;
+    font-style:italic;
+    background-image:url(Images/CIELO.png) !important;
+    background:#F0FFFF;
+    color:#3399FF;
+}
+.footer {
+    font:700 8px Comic Sans MS;
+}
+.container {
+   text-align:center;
+}
